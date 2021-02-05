@@ -7,7 +7,6 @@ speed = [1, 1]
 black = 0, 0, 0
 
 screen = pygame.display.set_mode(size)
-
 ball = pygame.image.load("intro_ball.gif")
 ballrect = ball.get_rect()
 
